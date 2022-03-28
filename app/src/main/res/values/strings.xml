@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+
+    <string name="min_high_degree">%1$s / %2$s Feels like %3$s</string>
+
+    <string name="warning">Warning</string>
+    <string name="location_permission_text">In order to locate your district, the Weather app needs to access your location. Would you like to give access now?</string>
+    <string name="open_settings">Open Settings</string>
+</resources>
